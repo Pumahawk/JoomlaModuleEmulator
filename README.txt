@@ -1,0 +1,1 @@
+Piccolo emulatore per il test di moduli di Joomla
